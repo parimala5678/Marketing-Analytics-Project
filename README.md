@@ -18,7 +18,7 @@ The primary goals of this project are:
 
 **Jupyter Notebooks:** For documenting the analysis process and code execution.  
 ## About Data loading and Data:
-Download the .bak file from the folder data. Now, add this backup file to the backup folder of the MS SQL Server Management Studio. Path will be something similar to this -> C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup.  
+Download the .bak file from the folder [data](https://github.com/parimala5678/Marketing-Analytics-Project/tree/main/data). Now, add this backup file to the backup folder of the MS SQL Server Management Studio. Path will be something similar to this -> C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\Backup.  
 
 After adding the database to the MSSQL Server, you can see the multiple tables(as shown below) that are available. 
 ![image](https://github.com/user-attachments/assets/6bf6d2be-a6c3-4ed2-87e6-d7e7440ff405)  
